@@ -1,0 +1,15 @@
+
+.centro{
+    width: 60%;
+    margin: 0% auto;
+
+}table.tabla tr th, table.tabla tr td{
+    
+    border:1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+table.tabla{
+    width: 100%;
+    background-image: url("../img/huella-gato-perro-cachorro-mascota-rastro_177006-39.jpg");
+}
