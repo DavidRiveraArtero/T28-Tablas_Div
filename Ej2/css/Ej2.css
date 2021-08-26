@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+
+.centro{
+    width: 40%;
+    margin: 0% auto;
+}
+
+table.tabla tr th, table.tabla tr td{
+    
+    border:1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+table.tabla{
+    width: 50%;
+    background-color:rgb(91, 191, 238);
+}
+th{
+    background-color: green;
+}
+td{
+    background-color: rgb(157, 241, 157);
+}
