@@ -1,0 +1,31 @@
+html,body{
+    width: 100%;
+    height: 70%;
+    margin: 0 auto;
+}
+body{
+    background-image: url("../img/ac.jpg");
+}
+.centro{
+    margin-top: 20%;
+    margin-left: 20%;
+    width: 60%;
+    
+}
+
+table.tabla tr th, table.tabla tr td{
+    border:1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+table.tabla{
+    width: 100%;
+    background-color:rgb(91, 191, 238);
+}
+
+.fondoBlanco{
+    background-color: white;
+}
+.fondoAmarillo{
+    background-color: yellowgreen;
+}
