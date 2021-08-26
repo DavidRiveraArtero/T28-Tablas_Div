@@ -1,0 +1,10 @@
+table.tabla tr th, table.tabla tr td{
+    
+    border:1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+table.tabla{
+    width: 50%;
+    
+}
