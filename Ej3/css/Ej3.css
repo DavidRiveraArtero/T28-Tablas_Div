@@ -1,0 +1,39 @@
+body{
+    font-size: 120%;
+}
+
+h1{
+    text-align: center;
+}
+
+table.tabla tr th, table.tabla tr th{
+    font-size: 130%;
+    border:1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+table.tabla{
+    border-collapse: collapse;
+    width: 90%;
+    background-color: whitesmoke;
+    margin:auto;
+    
+}
+
+.colorVerde{
+    background-color: rgb(195, 235, 163);
+}
+.colorAzul{
+    background-color: rgb(56, 159, 243);
+}
+.colorMorado{
+    background-color: rgb(241, 105, 230);
+}
+
+.colorMarron{
+    color: chocolate;
+}
+.posicionTexto{
+   
+    text-align:end
+}
