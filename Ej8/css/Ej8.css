@@ -1,0 +1,72 @@
+
+body, html{
+    background-color:rgb(168, 158, 158) ;
+    width: 100%;
+    height: 100%;
+    margin: 0% auto;
+}
+.pagP{
+    width: 100%;
+    height: 100%;
+}
+.mapaPequeño{
+    float: left;
+    background-color: rgb(62, 193, 245);
+    width: 20%;
+    height: 20%;
+    margin-right: 3%;
+    
+}
+.suelo{
+    width: 100%;
+    height: 7%;
+    background-image: url("../img/f01\ \(1\).png");
+    position:relative;
+    
+}
+.medio{
+    width:60%;
+    height: 70%;
+    background-image:url("../img/f02.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 23px;
+
+    
+}
+.cielo{
+    width: 100%;
+    height: 20%;
+    background-image: url("../img/f03.png");
+}
+
+/* SEGUNDO MAPA*/
+.mapaGrande{
+    float: left;
+    background-color: rgb(62, 193, 245);
+    width: 40%;
+    height: 40%;
+    margin-right: 3%;
+    
+}
+.cielo2{
+    width: 100%;
+    height: 30%;
+    background-image: url("../img/f03.png");
+    
+}
+.medio2{
+    width: 70%;
+    height: 70%;
+    background-image:url("../img/f02.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 23px;
+}
+
+.suelo2{
+    width: 100%;
+    height: 7%;
+    background-image: url("../img/f01\ \(1\).png");
+    
+}
